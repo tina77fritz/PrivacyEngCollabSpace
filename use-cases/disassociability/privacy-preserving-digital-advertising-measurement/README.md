@@ -1,3 +1,5 @@
+- [Privacy-Preserving Digital Advertising Measurement with Differential Privacy](privacy-preserving-digital-advertising-measurement/README.md) – Use case describing disassociability and differential privacy techniques for privacy-preserving advertising measurement.
+
 # Privacy-Preserving Digital Advertising Measurement with Differential Privacy
 
 ## Summary
